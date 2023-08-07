@@ -1,6 +1,9 @@
 hello world
 salam be developer 1
 
-dev3: hello 
 
-dev 3 : how you doiin??
+branch shomare 1 :salam
+
+taghir branch dev shomare 2
+dev 2 : good morning
+dev 2 : godbless you
