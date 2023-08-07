@@ -4,3 +4,4 @@ salam be developer 1
 branch shomare 1 :salam
 
 taghir branch dev shomare 2
+dev 2 : good morning
